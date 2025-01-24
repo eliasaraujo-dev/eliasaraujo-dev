@@ -1,4 +1,9 @@
-# Hello World! I'm Elias. 👋
+# Olá! Eu sou o Elias Araujo. 👋
+<p align="left">
+  <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/>
+  <img alt="Youtube src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+  
+</p>
 
 ## 👨‍💻 I'm a Full Stack Web Developer. <br />
 
@@ -36,3 +41,4 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasaraujx/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)

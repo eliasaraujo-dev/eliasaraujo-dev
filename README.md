@@ -1,7 +1,7 @@
 # Hello, World! I'm Elias Araujo 👋
 <p align="left">
-  <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
   <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/>
 </p>
 

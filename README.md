@@ -7,7 +7,7 @@
 
 ## 👨‍💻 I'm a Full Stack Web Developer. <br />
 
-### 👨‍🎓 Currently pursuing a degree in Analysis System and Development at Universidade Estácio. <br />
+### 👨‍🎓 Currently pursuing a Associate degree in Analysis System and Development at Universidade Estácio. <br />
 ### 🏢 I'm currently open to working. <br />
 #### 🏗 I'm actively building my portfolio. <br />
 #### 🎮 Fun fact: I'm also an streamer at twitch, usually of counter-strike. <br />

@@ -1,6 +1,6 @@
 # Hello World! I'm Elias 👋
 
-## 💻 Developer
+## 💻 Fullstack Developer
 
 ### 🔬 About Me
 - Graduating in **Systems Analysis And Development** at Estacio University.

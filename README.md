@@ -5,7 +5,7 @@
 ### 🔬 About Me
 - Graduating in **Systems Analysis And Development** at Estacio University.
 - Former **Military** at Brazilian Army (Technology Operations).
-- Passionate about technology and innovative.
+- Passionate about technology and innovation.
 
 ### 💼 Technical Skills
 

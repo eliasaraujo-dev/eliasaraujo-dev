@@ -1,9 +1,11 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi, I'm Elias 👋
+  <br>Software Developer</h1>
+<h2 align="center">Turning coffe into code since 2021</h2>
 
 ### 🔬 About Me
-- Graduating in **Systems Analysis And Development** at Estacio University.
-- Former **Military** at Brazilian Army (Technology Operations).
-- Passionate about technology and innovation.
+- 🎓 I'm currently pursuing a degree in **Systems Analysis and Development**.
+- 🎖️ My background includes serving in the Brazilian Army.
+- 🚀 I am passionate about using technology to create practical and impactful solutions.
 
 ###
 
@@ -33,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ###
@@ -45,7 +48,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ###

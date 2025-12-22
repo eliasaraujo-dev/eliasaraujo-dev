@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Elias 👋
-  <br>Software Developer</h1>
-<h2 align="center">Turning coffe into code since 2021</h2>
+  <br>Software Engineer</h1>
 
 ### 🔬 About Me
 - 🎓 I'm currently pursuing a degree in **Systems Analysis and Development**.

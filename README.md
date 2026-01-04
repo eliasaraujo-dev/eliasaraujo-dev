@@ -5,8 +5,7 @@
 - 🔭 I am currently working on a personal project.
 - 🎓 I am currently finishing my degree in Systems Analysis.
 - 🎖️ I am a former military working in the technology field.
-- 🚀 I am passionate about using technology to create practical and impactful solutions.
-- 🎯 Designing distributed systems that support millions of requests, ensuring low latency and data consistency.
+- 🎯 I am passionate about using technology to create practical and impactful solutions.
 
 ###
 
